@@ -1,0 +1,52 @@
+#paragraph {
+    text-indent: 100px;
+}
+
+.lineHeight {
+    line-height: 2rem;
+}
+/* Font */
+.st-font {
+    font-family: "Satisfy";
+}
+
+html,body {
+    height: 100%;
+}
+
+.container-fluid {
+    min-height: 100%;
+}
+
+.hireme {
+    margin-right: 10px;
+}
+
+.contactme {
+    margin-left: 10px;
+}
+
+/* Services Icon Color */
+.i-colo {
+    color: chartreuse;
+}
+
+/* Services Subtitle Color */
+.ss-colo {
+    color: silver ;
+}
+
+a.nav-link {
+    color: whitesmoke;
+}
+
+a.nav-link:hover {
+    color: black;
+    background-color: #e9cd79;
+}
+
+a.nav-link.active {
+    color: black;
+    background-color: #ffc107;
+    font-weight: bold;
+}
